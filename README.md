@@ -109,6 +109,7 @@ Feel free to fork this repository, suggest improvements, or submit pull requests
 
 ## ✒️ Author
 
-Dhruvil Thummar 
+Dhruvil Thummar
+Krish Tarpara 
 
 -----
